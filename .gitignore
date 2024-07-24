@@ -1,0 +1,19 @@
+# Ignore arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignore arquivos gerados pelo VS Code
+.vscode/
+
+# Ignore dependências do Node.js
+node_modules/
+
+# Ignore arquivos de log
+*.log
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore virtual environment directories
+.venv/

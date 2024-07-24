@@ -1,0 +1,18 @@
+# Dashboard de Vendas
+
+Este é um projeto de dashboard de vendas desenvolvido com Streamlit, Requests, Pandas e Plotly. O dashboard exibe diversas métricas e gráficos baseados nos dados de vendas obtidos a partir de uma API.
+
+## Visão Geral
+
+O dashboard apresenta as seguintes visualizações e métricas:
+- Mapa de receita por estado
+- Receita mensal
+- Top 5 estados com maior receita
+- Receita por categoria de produto
+- Total de receita e quantidade de vendas
+
+## Estrutura do Projeto
+
+- `main.py`: Script principal que contém o código do dashboard.
+- `requirements.txt`: Arquivo de dependências necessárias para rodar o projeto.
+- `.gitignore`: Arquivo para ignorar arquivos e diretórios desnecessários no controle de versão, como `.venv` e `node_modules`.
